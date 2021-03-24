@@ -1,0 +1,6 @@
+export const CLEAR_STATE = "CLEAR_STATE";
+
+// // USER
+export const UPDATE_USER_PROPS = "UPDATE_USER_PROPS";
+export const MERGE_USER_PROPS = "MERGE_USER_PROPS";
+export const DELETE_USER_PROPS = "DELETE_USER_PROPS";
